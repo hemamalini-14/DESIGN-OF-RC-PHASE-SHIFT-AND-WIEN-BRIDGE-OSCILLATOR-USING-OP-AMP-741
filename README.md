@@ -20,7 +20,7 @@ The frequency of oscillation is given by fo = 1/2πRC.
 <img width="470" height="261" alt="image" src="https://github.com/user-attachments/assets/165b13dc-9fc3-4a2f-b076-c36b69f78830" />
 
 # MODEL GRAPH:
-<img width="314" height="218" alt="image" src="https://github.com/user-attachments/assets/2c987cdc-323d-4c68-8516-1851b5cd2c39" />
+<img width="266" height="206" alt="image" src="https://github.com/user-attachments/assets/fd3522f6-cdb6-4066-89df-f68ee2244e5d" />
 
 # CIRCUIT DIAGRAM:
 # WIEN BRIDGE OSCILLATOR
